@@ -19,5 +19,25 @@ API server for handling requests from city-explorer.
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
+Name of feature: Modularize Backend
+
+Estimate of time needed to complete: 30mins
+
+Start time: 2:30am
+
+Finish time: 2:47am
+
+Actual time needed to complete: 17 mins!
+
+Name of feature: Caching
+
+Estimate of time needed to complete: 45 mins
+
+Start time: ~2am
+
+Finish time: 3:15am
+
+Actual time needed to complete: ~hour and 15 mins.
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
